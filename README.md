@@ -4,9 +4,15 @@
 
 **Day 13 / 30 - April Vibe Coding Challenge**
 
-## 🔗[Live Demo](Add Vercel Link Here)
+## 🔗[Live Demo](https://aura-quotes.vercel.app/)
 
 **Aura Quotes** is a highly premium, minimalist daily quote generator. It pulls from a massive dataset of over 1,400 quotes, ensuring you never run out of inspiration.
+
+## 📸 Screenshots
+
+![Desktop Screen](public/home-01.png)
+
+![Mobile](public/home-02.png)
 
 ## ✨ Features
 
