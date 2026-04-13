@@ -100,7 +100,7 @@ export default function App() {
         <div className="flex items-center gap-3">
           <Sparkles className="text-white/60" size={24} />
           <div className="flex flex-col items-center sm:items-start">
-            <h1 className="text-xl sm:text-2xl font-display tracking-[0.2em] text-white uppercase">Aura Quotes</h1>
+            <h1 className="text-xl sm:text-2xl font-display tracking-[0.2em] text-white uppercase">Aura Quotes - Made By Ram Bapat</h1>
             <span className="text-[10px] font-body tracking-widest text-white/40 uppercase">Daily Inspiration</span>
           </div>
         </div>
